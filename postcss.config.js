@@ -1,5 +1,4 @@
 module.exports = {
-  syntax: 'postcss-syntax',
   plugins: {
     '@tailwindcss/nesting': {},
     'postcss-preset-env': {
