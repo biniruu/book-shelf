@@ -6,6 +6,7 @@
     "test": "jest",
     "test:update": "jest -u",
     "test:watch": "jest --watch",
+    "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
